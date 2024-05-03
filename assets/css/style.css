@@ -514,3 +514,9 @@ section{
         width: 100%;
     }
 }
+
+@media (max-width: 425px){
+    body{
+        width: 100%;
+    }
+}
