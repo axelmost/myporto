@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 // typedjs
 const typed = new Typed('.multiple-text', {
-    strings: ['Web Development'],
+    strings: ['Programmer', 'UI/UX Design', 'Blogger'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
